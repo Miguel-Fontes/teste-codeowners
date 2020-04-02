@@ -1,7 +1,7 @@
-* @Miguel-Fontes @Fuerback @marceljdb @rafaelmagossi @alexandresehnem
+* @Miguel-Fontes
 
-/dev/financial @Fuerback @rafaelmagossi
 /dev/subscriptions @Fuerback @rafaelmagossi
+/prod/subscriptions @Fuerback @rafaelmagossi
 
+/dev/financial @alexandresehnem
 /prod/financial @alexandresehnem
-/prod/subscriptions @alexandresehnem
